@@ -24,7 +24,6 @@ The frontend client makes API calls to the backend server when it is running.
   - JWT Authentication
   - Spring Data JPA
   - Hibernate
-  - PostgreSQL
   - Maven
 
 **Frontend**
